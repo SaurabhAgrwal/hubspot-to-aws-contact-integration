@@ -14,7 +14,7 @@ A professional API service that syncs contacts from AWS to HubSpot, with proper 
 
 ### 1. Clone the repository:
 ```bash
-git clone [<repository-url>](https://github.com/SaurabhAgrwal/hubspot-to-aws-contact-integration)
+git clone https://github.com/SaurabhAgrwal/hubspot-to-aws-contact-integration.git
 cd hubspot_integration
 ```
 
